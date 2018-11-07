@@ -1,5 +1,3 @@
-directions = ['right', 'down', 'left', 'up']
-
 matrix_string = '''
 1234 
 5678 
